@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.container{
+    border: 2px solid black;
+    height: 200px;
+    background-color: #cda4a4;
+}
+h1{text-align: center;
+margin: 20px auto;}
+ul{
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+li{
+    margin: 20px auto;
+    text-align: center;
+
+}
